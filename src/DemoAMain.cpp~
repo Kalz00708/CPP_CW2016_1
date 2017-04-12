@@ -1,0 +1,11 @@
+#include "DemoAMain.h"
+
+
+DemoAMain::DemoAMain()
+{
+}
+
+
+DemoAMain::~DemoAMain()
+{
+}
